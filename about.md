@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Yon Jong Yoon
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+J.D. Candiate, Fordham University School of Law
+Managing Editor, Fordham International Law Journal (Vol. 43, 2019-2020)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yyoon7@law.fordham.edu](mailto:email@domain.com)
