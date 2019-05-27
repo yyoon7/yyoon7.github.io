@@ -11,4 +11,5 @@ permalink: /about/
 
 #### Publications
 
-- *[Making Allowances for Carbon Emission Allowances in Investor-State Disputes: A Case Study of the Republic of Korea](http://link.springer.com/chapter/10.1007%2F978-3-319-29322-6_6) in* Legal Issues on Climate Change and International Trade Law (Deok-Young Park ed., 2016)
+- *[Draconian Burdens of the Paris Agreement and ISDS](https://www.fordhamilj.org/iljonline/2018/10/25/draconian-burdens-of-the-paris-agreement-and-isds)*, FORDHAM INT'l L.J. ONLINE (Oct. 25, 2018) 
+- *[Making Allowances for Carbon Emission Allowances in Investor-State Disputes: A Case Study of the Republic of Korea](http://link.springer.com/chapter/10.1007%2F978-3-319-29322-6_6) in* LEGAL ISSUES ON CLIMATE CHANGE AND INTERNATIONAL TRADE LAW (Deok-Young Park ed., 2016)
