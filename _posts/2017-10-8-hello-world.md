@@ -1,13 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: LG Electronics Commits Itself to Achieve Net-Zero Carbon Emissions by 2030
 tags:
-  - test
-  - tags
+  - LG Electronics
+  - Climate Change
+  - Carbon
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+On May 20, 2019, LG Electronics announced that the company aims to achieve net-zero carbon emissions by 2030 through expanding its renewable energy installations as well as Clean Development Mechanism (CDM) projects under the auspices of the United Nations Framework Convention on Climate Change (UNFCCC). For more details, read the LG Newsroom press release: [LG COMMITS TO CARBON NEUTRALITY BY 2030](http://www.lgnewsroom.com/2019/05/lg-commits-to-carbon-neutrality-by-2030/).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![_config.yml]({{ site.baseurl }}http://www.lgnewsroom.com/wp-content/uploads/2019/01/LG-logo.jpg)
