@@ -15,6 +15,5 @@ As of May 19, 2019, the New York City Council's [legislation](https://council.ny
 
 > "Reports show Trump Tower and other properties are among the dirtiest emitters in the Big Apple. These are the bad actors we need to hold accountable, because their emissions make everyone's air dirtier, fuel more violent weather and put the future of New York City in jeopardy."[^2] - New York City Council Member Costa Constantinides
 
-[^1]: *Legislation*, NEW YORK CITY COUNCIL, <https://legistar.council.nyc.gov/Gateway.aspx?M=LD&From=RSS&ID=3761078&GUID=B938F26C-E9B9-4B9F-B981-1BB2BB52A486> (last visited May 30, 2019).
-[^2]: Jason Silverstein, *Trump buildings could be forced to go green under sweeping New York City climate bill
-*, CBS NEWS (Apr. 21, 2019, 5:05 PM), <https://www.cbsnews.com/news/new-york-city-carbon-emissions-from-trump-tower-and-other-buildings-80-percent/>
+[^1]: <https://legistar.council.nyc.gov/Gateway.aspx?M=LD&From=RSS&ID=3761078&GUID=B938F26C-E9B9-4B9F-B981-1BB2BB52A486>
+[^2]: <https://www.cbsnews.com/news/new-york-city-carbon-emissions-from-trump-tower-and-other-buildings-80-percent/>
