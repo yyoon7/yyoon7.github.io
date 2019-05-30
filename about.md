@@ -7,6 +7,7 @@ permalink: /about/
 ### Yon Jong Yoon
 
 - Summer Associate, LG Electronics (Summer 2019)
+- Legal Extern, New York City Council (Spring 2019)
 - J.D. Candidate, Fordham University School of Law
 - Managing Editor, [*Fordham International Law Journal*](https://www.fordhamilj.org/) (Vol. 43, 2019-2020)
 
