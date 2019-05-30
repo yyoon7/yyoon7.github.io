@@ -3,7 +3,6 @@ layout: post
 title: New York City's Legislation to Curb Carbon Emissions from Its Buildings Enacted
 tags:
   - New York City
-  - New York City Council
   - Climate Change
   - Carbon Emissions
   - Green Buildings
